@@ -1,5 +1,5 @@
 # 💫 Hey, there! Elis here!
-📚 Computer Science student currently focused on web development<br>🔎 Learning new and exciting front-end and back-end technologies<br>💬 Contact me through elisolivasco@gmail.com<br>❤️ Love to read, exercise and program!<br>
+📚 Computer Science student currently focused on full-stack development<br>🔎 Learning new and exciting front-end and back-end technologies<br>💬 Contact me through elisolivasco@gmail.com<br>❤️ Love to read, exercise and program!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/elis-vasconcelos-0ba2ab239) 
